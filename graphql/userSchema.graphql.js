@@ -1,0 +1,1 @@
+// GraphQL user schema
